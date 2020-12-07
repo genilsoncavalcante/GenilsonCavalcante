@@ -13,6 +13,13 @@
 -->
 
 
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" width="400"></a>
+</p>
+<p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" width="340"></a>
+</p>
+
 
 
 <!--
@@ -29,11 +36,11 @@
 
 ---
 
-
+<!--
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/GenilsonCavalcante)
-
+-->
 
 
 
