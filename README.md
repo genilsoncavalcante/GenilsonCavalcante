@@ -35,10 +35,10 @@
 
 
 <a href="https://github.com/GenilsonCavalcante">
-  <img src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/GenilsonCavalcante">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 
 ---
