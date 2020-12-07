@@ -8,11 +8,12 @@
    
 ---
 
-![Genilson's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight)
+![Genilson's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/GenilsonCavalcante)
 
 ---
 
+![Genilson github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=radical)
 
 <!--
 Melhores cores: dark, tokyonight, cobalt, synthwave, highcontrast, dracula
