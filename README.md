@@ -7,7 +7,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=genilson.cavalcante105@gmail.com)](genilson.cavalcante105@gmail.com)
 
-<a href="www.linkedin.com/in/genilson-cavalcante-de-oliveira" target="_blank">
+<a href="www.linkedin.com/in/genilson-cavalcante-de-oliveira">
 <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="70">
 </a>
 
