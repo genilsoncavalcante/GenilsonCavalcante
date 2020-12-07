@@ -13,26 +13,14 @@
 -->
 
 
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" width="400"></a>
+---
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight"></a>
 </p>
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" width="340"></a>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight"></a>
 </p>
-
-
-
-<!--
-<a href="https://github.com/GenilsonCavalcante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/GenilsonCavalcante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" />
-</a>
--->
-
-
-
 
 ---
 
@@ -54,24 +42,12 @@
 -->
 
 
----
-
-
-
 
 <!--
 Melhores cores: dark, tokyonight, cobalt, synthwave, highcontrast, dracula
 -->
 
 
-<!--
-<a href="https://github.com/GenilsonCavalcante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/GenilsonCavalcante">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight" />
-</a>
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
