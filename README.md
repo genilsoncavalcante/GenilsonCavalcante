@@ -17,7 +17,7 @@
 
 
 ---
-<p width="350">
+<p align='center'>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight&width="20")
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/GenilsonCavalcante)
 </p>
