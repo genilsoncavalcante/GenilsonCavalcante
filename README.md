@@ -14,7 +14,7 @@
 <!--
 www.linkedin.com/in/genilson-cavalcante-de-oliveira - Linkedin
 
-http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9714202E8 - Curriculo Lattes
+http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9714202E8 - Currículo Lattes
 -->
 
    
