@@ -5,6 +5,14 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="https://www.instagram.com/xav_lucass/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsxavier.00@gmail.com)](www.genilson.cavalcante105@gmai.com)
+
+http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9714202E8
+
 
    
 ---
