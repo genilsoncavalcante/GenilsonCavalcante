@@ -5,8 +5,19 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante)](https://github.com/GenilsonCavalcante)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante)](https://github.com/GenilsonCavalcante)
+<!--
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante" width="350"></a>
+</p>
+-->
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+Melhores cores: dark, tokyonight, cobalt, synthwave, highcontrast, dracula
+-->
 
 
 - 🔭 I’m currently working on ...
@@ -18,3 +29,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 
+t
