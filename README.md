@@ -9,6 +9,11 @@
 <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=white" alt="G-mail">
 </a>
 
+<a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
+
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=genilson.cavalcante105@gmail.com)](genilson.cavalcante105@gmail.com)
 
 <a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/">
