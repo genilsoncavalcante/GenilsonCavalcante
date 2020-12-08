@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
+<img src="https://img.shields.io/badge/Genilson_Cavalcante-blue.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
 </a>
 
 ![GitHub followers](https://img.shields.io/github/followers/GenilsonCavalcante?style=dark)
