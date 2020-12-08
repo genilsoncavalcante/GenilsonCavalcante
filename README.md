@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="https://mail.google.com/genilson.cavalcante105@gmail.com/" target="_blank">
+<a href="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genilson.cavalcante105@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=blue" alt="G-mail">
 </a>
 
