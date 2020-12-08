@@ -39,7 +39,7 @@ http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9714202E8 - Currícu
 
 ---
 
-
+ 
 <!--
 Melhores cores: dark, tokyonight, cobalt, synthwave, highcontrast, dracula
 -->
