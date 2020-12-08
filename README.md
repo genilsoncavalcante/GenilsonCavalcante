@@ -6,11 +6,11 @@
 </a>
 
 <a href="https://www.gmail.com/genilson.cavalcante105@gmail.com/" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=white" alt="G-mail">
+<img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=Gmail&logoColor=blue" alt="G-mail">
 </a>
 
 <a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+<img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
 </a>
 
 
