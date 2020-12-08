@@ -2,7 +2,7 @@
 
 
 <a href="https://www.instagram.com/genilsoncavalcantedeoliveira/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-15AB89.svg?&style=flat-square&logo=instagram&logoColor=black" alt="Instagram">
 </a>
 
 <a href="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genilson.cavalcante105@gmail.com" target="_blank">
@@ -10,13 +10,15 @@
 </a>
 
 <a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
+<img src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat-square&logo=linkedin&logoColor=black" alt="Linkedin">
 </a>
+
+![GitHub followers](https://img.shields.io/github/followers/GenilsonCavalcante?style=tokyonight)
 
 
 <!--
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=genilson.cavalcante105@gmail.com)](genilson.cavalcante105@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:genilson.cavalcante105@gmail.com)](genilson.cavalcante105@gmail.com)
 
 <a href="https://www.linkedin.com/in/genilson-cavalcante-de-oliveira/">
 <img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="70">
