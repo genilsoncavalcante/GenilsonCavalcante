@@ -15,6 +15,25 @@
 
 
 
+
+
+---
+
+
+<a href="https://github.com/GenilsonCavalcante">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=highcontrast">
+</a>
+
+<a href="https://github.com/GenilsonCavalcante">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight">
+</a>
+
+---
+
+
+
+
+
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/GenilsonCavalcante?style=dark)
 -->
@@ -34,6 +53,9 @@
 www.linkedin.com/in/genilson-cavalcante-de-oliveira - Linkedin
 
 http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9714202E8 - Currículo Lattes
+
+display="block" margin-left="auto" margin-right="auto"
+
 -->
 
    
