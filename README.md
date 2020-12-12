@@ -20,6 +20,8 @@
 ---
 
 
+<div align="center">
+
 <a href="https://github.com/GenilsonCavalcante" align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=highcontrast">
 </a>
@@ -27,6 +29,9 @@
 <a href="https://github.com/GenilsonCavalcante" align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenilsonCavalcante&layout=compact&show_icons=true&theme=tokyonight">
 </a>
+
+</div>
+
 
 ---
 
