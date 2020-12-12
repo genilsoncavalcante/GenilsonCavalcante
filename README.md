@@ -63,7 +63,11 @@ display="block" margin-left="auto" margin-right="auto"
 
 -->
 
-   
+
+
+
+<!--
+
 ---
 
 ![Genilson's github stats](https://github-readme-stats.vercel.app/api?username=GenilsonCavalcante&show_icons=true&theme=highcontrast)
@@ -71,7 +75,12 @@ display="block" margin-left="auto" margin-right="auto"
 
 ---
 
- 
+-->
+
+
+
+
+
 <!--
 Melhores cores: dark, tokyonight, cobalt, synthwave, highcontrast, dracula
 -->
