@@ -38,7 +38,7 @@
 <h1>Projetos</h1>
 
 * <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tela-de-Login/index.html">Tela de Login</a>
-* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tela-de-Login/index.html">Tela de Login</a>
+* <a href="https://genilsoncavalcante.github.io/projeto-site/">Projeto Site - Curso em Vídeo</a>
 
 
 
