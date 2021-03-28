@@ -37,12 +37,13 @@
 
 <h1>Projetos</h1>
 
-* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tela-de-Login/index.html">Tela de Login - Curso da Hcode</a>
-* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tabuada/tabuada.html">Tabuada - Curso da Hcode</a>
-* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Lista-de-Tarefas-To-Do/lista.html">Lista de Tarefas To Do - Curso da Hcode</a>
-* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Site-Responsivo/index.html">Site Responsivo - Curso da Hcode</a>
-* <a href="https://genilsoncavalcante.github.io/projeto-site/">Projeto Site - Curso em Vídeo</a>
-* <a href="https://genilsoncavalcante.github.io/Site-Google-Glass/index.html">Projeto Google Glass - Curso em Vídeo</a>
+* <a href="https://genilsoncavalcante.github.io/" target="_blank">Meu Portifólio - Kenzie Academy</a>
+* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tela-de-Login/index.html" target="_blank">Tela de Login - Curso da Hcode</a>
+* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Tabuada/tabuada.html" target="_blank">Tabuada - Curso da Hcode</a>
+* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Lista-de-Tarefas-To-Do/lista.html" target="_blank">Lista de Tarefas To Do - Curso da Hcode</a>
+* <a href="https://genilsoncavalcante.github.io/CursoHTML5-HCODE/Projeto-Site-Responsivo/index.html" target="_blank">Site Responsivo - Curso da Hcode</a>
+* <a href="https://genilsoncavalcante.github.io/projeto-site/" target="_blank">Projeto Site - Curso em Vídeo</a>
+* <a href="https://genilsoncavalcante.github.io/Site-Google-Glass/index.html" target="_blank">Projeto Google Glass - Curso em Vídeo</a>
 
 
 
